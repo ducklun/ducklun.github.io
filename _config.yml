@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.jpg"
   name             : "Arduino LM35 Temperature Monitor"
   pronouns         : # example: "she/her"  
   bio              : "Hệ thống giám sát nhiệt độ thời gian thực sử dụng cảm biến LM35 và vi điều khiển Arduino. Dự án đọc dữ liệu từ 3 kênh cảm biến (A0, A1, A2), đóng gói dưới định dạng chuỗi JSON và gửi qua cổng Serial để giao tiếp với máy tính.
