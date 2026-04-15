@@ -13,7 +13,7 @@ title                    : "DuckLun"
 title_separator          : "-"
 name                     : &name "Nguyen Duc Luong"
 description              : &description "Arduino LM35 Temperature Monitor"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://ducklun.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Hệ thống giám sát nhiệt độ thời gian thực sử dụng cảm biến LM35 và vi điều khiển Arduino. Dự án đọc dữ liệu từ 3 kênh cảm biến (A0, A1, A2), đóng gói dưới định dạng chuỗi JSON và gửi qua cổng Serial để giao tiếp với máy tính.
 "
-  location         : "Viet "
-  employer         : "Red Brick University"
+  location         : "Viet Nam"
+  employer         : "PTIT"
   uri              : # URL
   email            : "luongkhohn@gmail.com" 
 
@@ -52,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : ""
+  github           : "ducklun"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
