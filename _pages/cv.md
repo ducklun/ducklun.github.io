@@ -1,64 +1,16 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+## Học vấn
+- **Họ và tên:** Nguyễn Đức Lương
+- **Chuyên ngành:** Kỹ thuật Điện tử - Viễn thông
+- **Lĩnh vực nghiên cứu:** Hệ thống nhúng (Embedded Systems), IoT, Kỹ thuật điều khiển.
 
-{% include base_path %}
+## Kỹ năng
+| Danh mục | Công nghệ & Công cụ |
+| :--- | :--- |
+| **Ngôn ngữ lập trình** | C/C++, Python, Assembly, MATLAB |
+| **Vi điều khiển** | STM32, Arduino (Uno, Mega 2560), ESP8266 |
+| **Công cụ & Phần mềm** | Git, Proteus, STM32CubeIDE, Cheat Engine |
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Dự án
+- **Arduino LM35 Temperature Monitor:** Hệ thống giám sát nhiệt độ 3 kênh thời gian thực, truyền dữ liệu JSON.
+- **Hệ thống IoT Smart Home:** Dự án phát triển hệ thống nhà thông minh tích hợp cảm biến và điều khiển từ xa.
+- **Electronic Dice:** Xúc xắc điện tử sử dụng thuật toán tạo số ngẫu nhiên trên vi điều khiển Arduino Mega 2560.
